@@ -1,3 +1,5 @@
+Three specs have fallen tests <code>[issue](https://github.com/MelihovaN/appium-boilerplate/issues/1)</code>
+
 ## Allure report:
 
 <img width="1394" alt="Screenshot 2023-04-16 at 21 43 08" src="https://user-images.githubusercontent.com/116183278/232340485-21267e19-1ba9-4742-af81-5457a9cd4289.png">
