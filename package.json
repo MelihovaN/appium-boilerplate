@@ -15,7 +15,8 @@
         "ios.sauce.simulators.app.us": "wdio ./config/saucelabs/wdio.ios.simulators.app.conf.ts",
         "ios.browser": "wdio config/wdio.ios.browser.conf.ts",
         "lint": "eslint config tests",
-        "allure:report": "allure generate allure-results --clean -o allure-report && allure open"
+        "allure:report": "allure generate allure-results --clean -o allure-report && allure open",
+        "android.app:login": "wdio config/wdio.android.app.conf.ts --spec app.login.spec.ts"
     },
     "repository": {
         "type": "git",
